@@ -1,1 +1,2 @@
-# P-24-fynn-v.1
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
